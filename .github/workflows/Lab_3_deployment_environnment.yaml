@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 env:
-  RESOURCE_GROUP: "RG-Lab3"
+  RESOURCE_GROUP: "RG-Lab3-omb"
   LOCATION: "westeurope"
   CONTAINERAPPS_ENVIRONMENT: "environment-lab-3-omb"
   LOG_ANALYTICS_NAME: "law-workspace-lab-3-omb"
